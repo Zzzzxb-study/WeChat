@@ -1,0 +1,5 @@
+{
+  "name": "WeChat AI Editor",
+  "description": "An AI-powered editor for WeChat Official Accounts that automatically formats text, structures content, and handles image styling based on user-selected themes.",
+  "requestFramePermissions": []
+}
